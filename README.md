@@ -1,7 +1,7 @@
 # project5Bash
 bash script to check program against test cases
 
-////////////////Usage//////////////////////////
+////////////////Usage////////////////////////// <br>
 move script to your project dir, make sure your
 test files exist in this dir. Now do
 chmod 777 ./test.sh
